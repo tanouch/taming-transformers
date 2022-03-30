@@ -1,0 +1,16 @@
+#Files and folders
+data/ffhq
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+#Logs
+/logs/*
+
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+taming/modules/autoencoder/
