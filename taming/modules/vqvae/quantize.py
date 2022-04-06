@@ -374,9 +374,9 @@ class VectorQuantizer2(nn.Module):
 
 
 
-######################
-####LUCIDRAINs code###
-######################
+######################################################################################################################################
+####Code from https://github.com/lucidrains/vector-quantize-pytorch/blob/master/vector_quantize_pytorch/vector_quantize_pytorch.py####
+######################################################################################################################################
 
 def exists(val):
     return val is not None
